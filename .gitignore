@@ -1,0 +1,8 @@
+whitelist/node_modules
+whitelist/.env
+whitelist/cache
+whitelist/artifacts
+
+
+whitelist-front/whitelist/node_modules
+whitelist-front/whitelist/build
